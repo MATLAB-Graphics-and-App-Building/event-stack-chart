@@ -5,6 +5,8 @@ Version: 1.0
 eventStackChart visualizes the duration of events by time-of-day or
 time-of-year.
 
+![Example eventStackChart](/eventStackChart.png)
+
 How to use:
 ```
 eventStackChart(startTimes, endTimes)
